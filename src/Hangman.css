@@ -1,0 +1,65 @@
+.guessedWord {
+  font-size: 3rem;
+  letter-spacing: 10px;
+}
+
+p {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.image {
+  height: 300px;
+}
+.btns {
+  width: 30%;
+  margin: 0 auto;
+}
+
+@media only screen and (max-width: 600px) {
+  .btns {
+    width: 95%;
+  }
+}
+.keyboard {
+  font-family: inherit;
+  font-size: 20px;
+  margin: 4px;
+  border: none;
+  border-radius: 20px;
+  background-color: #457b9d;
+  font-weight: bold;
+  color: #f1faee;
+  outline: none;
+  padding: 6px 15px;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+.keyboard:hover {
+  background-color: #1d3557;
+}
+.keyboard:disabled {
+  background-color: #e63946;
+  cursor: not-allowed;
+  transform: scale(0.8);
+}
+
+#reset {
+  font-size: 24px;
+  cursor: pointer;
+  font-family: inherit;
+  font-weight: bold;
+  padding: 10px 26px;
+  border: none;
+  color: #f1faee;
+  background-color: #1d3557;
+  border-radius: 30px;
+  outline: none;
+  transition: all 0.3s;
+}
+
+#reset:hover {
+  background: #457b9d;
+  box-shadow: 10px 24px 21px 0px rgba(0, 0, 0, 0.75);
+  transform: translateY(-2px) scale(1.01);
+}
