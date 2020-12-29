@@ -16,4 +16,8 @@ This game has been hosted on Netlify.
 
 You can check out the game over here -> <a href="https://hangmannnn.netlify.app/">HANGMAN</a>
 
+### Credits
+
+The credit of this project goes to **Colt Steele**. Do check out his channel. <a href="https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw">Colt Steele's Youtube</a>
+
 
