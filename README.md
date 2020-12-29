@@ -10,7 +10,7 @@ This game has been hosted on Netlify.
 
 ### Demo
 
-![DEMO GIF](https://res.cloudinary.com/dqfw8jdn4/image/upload/v1609221733/Project%20demo%20gifs/hangman_gif_p2yogu.gif)
+![DEMO GIF](https://github.com/prithviBytes/hangman/blob/master/hangman%20gif.gif?raw=true)
 
 ### Try it out !!!
 
